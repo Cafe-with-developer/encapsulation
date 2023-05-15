@@ -1,0 +1,10 @@
+*.class
+/target/
+/.idea/compiler.xml
+/.idea/encapsulation.iml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/runConfigurations.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
