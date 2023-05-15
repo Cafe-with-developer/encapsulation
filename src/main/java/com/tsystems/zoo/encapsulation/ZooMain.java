@@ -38,5 +38,13 @@ public class ZooMain {
         whale.feedMe();
 
         System.out.println("Good bye and come again!");
+
+        // if you want to change the value of field of the existing object just use the setters f.e
+        cat.setHeight(69f);
+        cat.setWeight(6.9f);
+
+        // in case you need to read particular field of object just use getter f.e.
+        String name = cat.getName();
+        String breed = cat.getBreed();
     }
 }
